@@ -3,7 +3,7 @@
  
   𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈: https://telegram.me/PBX1_BOTS</b></h1>
   
-<b solid>Heroku Deploy (Colab):</b> <b><a href='https://colab.research.google.com/drive/1hnLmaaBaPWIHjsrRHQxFmGIrIsJN-KcB'>Click Here</a></b>
+<b solid>Heroku Deploy (Colab):</b> <b><a href='https://colab.research.google.com/drive/1iFZBMOwbriBj9RHwr89zltxBOH93GFuz'>Click Here</a></b>
 
 <b solid>VPS Link:</b> <b><a href='https://github.com/jattsbots/WZML-X-METADATA'>Click Here</a></b>
 

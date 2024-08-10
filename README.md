@@ -1,7 +1,7 @@
       
 <h><b solid>𝙃𝙚𝙧𝙤𝙠𝙪 𝘿𝙚𝙥𝙡𝙤𝙮
  
-  𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈: https://telegram.me/PBX1_BOTS</b></h1>
+  𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈: https://telegram.me/PBX1_BOTS https://telegram.me/NordBotz</b></h1>
   
 <b solid>Heroku Deploy (Colab):</b> <b><a href='https://colab.research.google.com/drive/1iFZBMOwbriBj9RHwr89zltxBOH93GFuz'>Click Here</a></b>
 
